@@ -27,6 +27,8 @@ Plano de Energia ggOS, ajustes de registro e BCD baseados nos ajustes do antigo 
 
 E outros ajustes para jogos ou para melhor desempenho.
 
+**Wallpapers e imagens padrões, substituídos por Wallpapers de jogos**.
+
 **Salve pelo menos seu Driver de Rede e execute o DriverEasy para os demais(No Desktop)**. **Windows 10 não inclui drivers rede rede genéricos para todos os modelos**.
 
 Serviços otimizados padrão [BlackViper](https://github.com/madbomb122/BlackViperScript).
