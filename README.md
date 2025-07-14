@@ -43,5 +43,5 @@ Serviços otimizados padrão [BlackViper](https://github.com/madbomb122/BlackVip
 
 Com DriverEasy, 7Zip e [Openshell](https://github.com/Open-Shell/Open-Shell-Menu) no Desktop.
 
-https://github.com/user-attachments/assets/df4237ed-1ecf-40eb-abaf-d632a15ce17b
+
 
