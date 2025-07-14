@@ -33,6 +33,8 @@ E outros ajustes para jogos ou para melhor desempenho.
 
 **Salve pelo menos seu Driver de Rede e execute o DriverEasy para os demais(No Desktop)**. **Windows 10 não inclui drivers rede rede genéricos para todos os modelos**.
 
+**Ao atualizar, alguns ajustes podem se perder**.
+
 Serviços otimizados padrão [BlackViper](https://github.com/madbomb122/BlackViperScript).
 
 Com DriverEasy, 7Zip e [Openshell](https://github.com/Open-Shell/Open-Shell-Menu) no Desktop.
