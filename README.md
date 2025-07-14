@@ -4,6 +4,11 @@ Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agrad
 
 <img width="1023" height="762" alt="Capturar2" src="https://github.com/user-attachments/assets/f9b30542-d76a-4094-9769-f6131fd7ff19" />
 
+
+https://github.com/user-attachments/assets/f1d1d11b-42a9-4120-90ec-a64e52ddd0e4
+
+[YouTube](https://www.youtube.com/watch?v=oqep6D70LAE)
+
 Sem defender.
 
 Sem Telemetria.
