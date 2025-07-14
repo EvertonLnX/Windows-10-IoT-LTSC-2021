@@ -1,4 +1,4 @@
-# Windows-10-LTSC-2021 Otimizado
+# Windows-10-LTSC-2021 19044.1288 Otimizado
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação.
 Sem defender.
 
