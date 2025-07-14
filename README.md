@@ -25,6 +25,8 @@ Aceleração do mouse desativada.
 
 Plano de Energia ggOS, ajustes de registro e BCD baseados nos ajustes do antigo ggOS.
 
+**.Net 3.5 já ativo**.
+
 E outros ajustes para jogos ou para melhor desempenho.
 
 **Wallpapers e imagens padrões, substituídos por Wallpapers de jogos diveros**.
