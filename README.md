@@ -1,4 +1,4 @@
-# Windows-10-LTSC-2021 19044.1288 Otimizado
+# Windows-10-IoTLTSC-2021 19044.1288 Otimizado - Tem suporte até 13 de janeiro de 2032
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação.
 Sem defender.
 
