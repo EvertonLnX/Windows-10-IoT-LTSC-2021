@@ -1,5 +1,9 @@
 # Windows-10-IoTLTSC-2021 19044.1288 Otimizado - Tem suporte até 13 de janeiro de 2032
 Considere nos ajudar com qualquer valor via http://livepix.gg/evertonlnx - Agradeço a colaboração e motivação.
+<img width="1021" height="762" alt="Capturar" src="https://github.com/user-attachments/assets/02c5427c-3828-4359-864f-80586d533f06" />
+
+<img width="1023" height="762" alt="Capturar2" src="https://github.com/user-attachments/assets/f9b30542-d76a-4094-9769-f6131fd7ff19" />
+
 Sem defender.
 
 Sem Telemetria.
